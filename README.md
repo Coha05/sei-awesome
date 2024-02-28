@@ -16,3 +16,6 @@ Want to add a project? Submit a pull request!
 ## Community
 
 Sei Network Logo: [https://www.seinetwork.io](https://www.seinetwork.io)
+
+
+![Alt text for the image](https://i.imgur.com/REA5PPr.jpeg)
