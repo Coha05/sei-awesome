@@ -80,3 +80,5 @@ List of content:
 ------
 
 ###### Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.
+
+##### Inspired of [Mina-Awesome](https://github.com/nerdvibe/awesome-mina)
