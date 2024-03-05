@@ -28,9 +28,9 @@ List of content:
 * [Sei Github](https://github.com/sei-protocol) Official Sei Github
 * [Sei Twitter](https://twitter.com/SeiNetwork) Official Sei Twitter
 * [Sei Telegram](https://t.me/seinetwork) Official Sei Telegram Channel
-* [Sei Facebook](https://www.facebook.com/profile.php?id=61550619881123&mibextid=LQQJ4d) Official Sei Telegram Channel
-* [Sei Instagram](https://www.instagram.com/seinetworkhq/) Official Sei Telegram Channel
-* [Sei Tiktok](https://www.tiktok.com/@seinetworkhq) Official Sei Telegram Channel
+* [Sei Facebook](https://www.facebook.com/profile.php?id=61550619881123&mibextid=LQQJ4d) Official Sei Facebook Channel
+* [Sei Instagram](https://www.instagram.com/seinetworkhq/) Official Sei Instagram Channel
+* [Sei Tiktok](https://www.tiktok.com/@seinetworkhq) Official Sei Tiktok Channel
 
 # Wallets
 * [Compass Wallet](https://compasswallet.io/download) A Sei Network Wallet for Mobile and Browser
