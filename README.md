@@ -20,8 +20,6 @@ List of content:
 - [Guides, news and articles](#guides-news-and-articles)
 - [Others](#others)
 - [International communities](#international-communities)
-          - [Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.](#awesome-sei-is-community-developed-projects-and-are-not-affiliated-to-sei-foundationlabs)
-        - [Inspired of Mina-Awesome](#inspired-of-mina-awesome)
 
 # Official Links
 
