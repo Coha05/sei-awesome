@@ -48,6 +48,7 @@ List of content:
 * [Flipside](https://flipsidecrypto.xyz/?d_project=sei) Onchain data for analysts, protocols, builders, and all of crypto.
 * [OG/WL NFT checking](https://intention.wtf/whitelist) You can easily find out if your wallets are whitelisted by using a tool with one click.
 * [NFT Mass Transfer](https://github.com/pocket-sei/sei-nft-transfer) A small, lightweight CLI tool to transfer SEI NFTs. Written in Javascript using the Inquirer package.
+* [Mass Drop ](https://www.massdrop.app) A tool for bulk managing NFTs and Sei tokens, including transfers, minting, listing, bidding, burning, and real-time monitoring across multiple wallets.
 
 # Staking pools
 * [Official pools](https://app.sei.io/stake?tab=allValidators) A staking pool from Sei Network site.
