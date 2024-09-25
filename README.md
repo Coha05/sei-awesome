@@ -10,15 +10,18 @@ A curated list of Sei resources, software and tools for Sei Network.
 
 List of content:
 
-- [Official Links](#Official-Links)
-- [Wallets](#Wallets)
-- [Explorers](#Explorers)
-- [Tools](#Tools)
-- [Staking](#Staking)
-- [Node scripts](#Node-scripts)
+- [Awesome Sei](#awesome-sei)
+- [Official Links](#official-links)
+- [Wallets](#wallets)
+- [Explorers](#explorers)
+- [Tools](#tools)
+- [Staking pools](#staking-pools)
+- [Node scripts](#node-scripts)
 - [Guides, news and articles](#guides-news-and-articles)
-- [International communities](#International-communities)
-- [Others](#Others)
+- [Others](#others)
+- [International communities](#international-communities)
+          - [Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.](#awesome-sei-is-community-developed-projects-and-are-not-affiliated-to-sei-foundationlabs)
+        - [Inspired of Mina-Awesome](#inspired-of-mina-awesome)
 
 # Official Links
 
@@ -69,7 +72,7 @@ List of content:
 
 # Others
 * [Sei brandkit](https://drive.google.com/drive/folders/1haOdZwNLf-L9bZFJaykNNc4T8fyODPi3?usp=sharing) A media brandkit for Sei Network.
-
+* [flipsidecrypto](https://flipsidecrypto.xyz/hess/dashboards/sei) On chain data analytics about Sei Network
 # International communities
 
 * [Vietnam](https://t.me/SeiVietNam) 🇻🇳 Vietnamese telegram community
