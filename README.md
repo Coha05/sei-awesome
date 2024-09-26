@@ -72,13 +72,8 @@ List of content:
 * [Sei brandkit](https://drive.google.com/drive/folders/1haOdZwNLf-L9bZFJaykNNc4T8fyODPi3?usp=sharing) A media brandkit for Sei Network.
 * [flipsidecrypto](https://flipsidecrypto.xyz/hess/dashboards/sei) On chain data analytics about Sei Network
 # International communities
-
 * [Vietnam](https://t.me/SeiVietNam) 🇻🇳 Vietnamese telegram community
 * [China](https://t.me/sei_chinese_group) 🇨🇳 Chinese telegram community
-
-
-
-
 ------
 
 ###### Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.
