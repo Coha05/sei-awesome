@@ -1,5 +1,4 @@
-# Awesome Sei
-A curated list of Sei resources, software and tools for Sei Network.
+`A curated list of Sei resources, software and tools for Sei Network.`
 
 <p align="center">
   <br>
