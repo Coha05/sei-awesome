@@ -9,7 +9,6 @@
 
 List of content:
 
-- [Awesome Sei](#awesome-sei)
 - [Official Links](#official-links)
 - [Wallets](#wallets)
 - [Explorers](#explorers)
@@ -19,10 +18,13 @@ List of content:
 - [Guides, news and articles](#guides-news-and-articles)
 - [Others](#others)
 - [International communities](#international-communities)
+          - [Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.](#awesome-sei-is-community-developed-projects-and-are-not-affiliated-to-sei-foundationlabs)
+        - [Inspired of Mina-Awesome](#inspired-of-mina-awesome)
 
 # Official Links
 
 * [Sei Network](https://www.sei.io/) Official Sei website
+* [Sei Ecosystem](https://www.sei.io/ecosystem) Official Sei Ecosystem
 * [Sei Discord server](https://discord.gg/Sei) Official Sei Discord server
 * [Sei Documentation](https://docs.sei.io/) Official Sei documentation
 * [Sei Github](https://github.com/sei-protocol) Official Sei Github
@@ -38,9 +40,17 @@ List of content:
 * [Keplr](https://www.keplr.app/) From browser extension to mobile and web applications, Keplr provides powerful and secure tools that best suit for your on‒chain activities.
 * [Cosmostation](https://www.cosmostation.io/products/cosmostation_extension) Non-custodial multi-chain cryptocurrency browser extension wallet.
 * [Coin98](https://chromewebstore.google.com/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg) #1 non-custodial, multi-chain wallet, and DeFi gateway, designed to seamlessly connect users to the crypto world in a safe and secure manner. 
+* [Metamask](https://metamask.io/): Popupar EVM wallet support Sei V2 Network.
+* [Rabby Wallet](https://rabby.io/): The game-changing wallet support Sei V2.
+* [OKX](https://www.okx.com/web3): The self-managed wallet on every major network supports Sei V2.
+* [Binance Wallet](https://www.binance.com/en/web3wallet): Wallet from Binance has support Sei V2.
+* [Bitget](https://web3.bitget.com/en/): Bitget Wallet — The Web3 Trading Wallet of the Future.
+  
 
 # Explorers
-* [Seiscan](https://www.seiscan.app/) Block Explorer for the SeiNetwork ecosystem.
+* [Seiscan](https://www.seiscan.app/) Block Explorer for the SeiNetwork.
+* [Seitrace](https://seitrace.com/?chain=pacific-1) Sei V2 EVM Explorer.
+* [Seistream](https://seistream.app/) The Explorer for the SeiNetwork from Stakeme.
 * [Mintscan](https://www.mintscan.io/sei) One-stop blockchain infra service supporting 60+ Cosmos-SDK based chains.
 * [Guru](https://sei.explorers.guru/) Best Cosmos-based network explorers.
 
@@ -49,6 +59,7 @@ List of content:
 * [OG/WL NFT checking](https://intention.wtf/whitelist) You can easily find out if your wallets are whitelisted by using a tool with one click.
 * [NFT Mass Transfer](https://github.com/pocket-sei/sei-nft-transfer) A small, lightweight CLI tool to transfer SEI NFTs. Written in Javascript using the Inquirer package.
 * [Mass Drop ](https://www.massdrop.app) A tool for bulk managing NFTs and Sei tokens, including transfers, minting, listing, bidding, burning, and real-time monitoring across multiple wallets.
+* [Revoke](https://revoke.cash/): Take Back Control of Your Wallet.
 
 # Staking pools
 * [Official pools](https://app.sei.io/stake?tab=allValidators) A staking pool from Sei Network site.
