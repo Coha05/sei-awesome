@@ -45,6 +45,7 @@ List of content:
 * [OKX](https://www.okx.com/web3): The self-managed wallet on every major network supports Sei V2.
 * [Binance Wallet](https://www.binance.com/en/web3wallet): Wallet from Binance has support Sei V2.
 * [Bitget](https://web3.bitget.com/en/): Bitget Wallet — The Web3 Trading Wallet of the Future.
+* [Tangem](https://tangem.com/en): Cold wallet now support Sei network.
   
 
 # Explorers
