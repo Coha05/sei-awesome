@@ -61,6 +61,7 @@ List of content:
 * [NFT Mass Transfer](https://github.com/pocket-sei/sei-nft-transfer) A small, lightweight CLI tool to transfer SEI NFTs. Written in Javascript using the Inquirer package.
 * [Mass Drop ](https://www.massdrop.app) A tool for bulk managing NFTs and Sei tokens, including transfers, minting, listing, bidding, burning, and real-time monitoring across multiple wallets.
 * [Revoke](https://revoke.cash/): Take Back Control of Your Wallet.
+* [Defillama](https://defillama.com/chain/Sei): DeFi analytics for Sei Network.
 
 # Staking pools
 * [Official pools](https://app.sei.io/stake?tab=allValidators) A staking pool from Sei Network site.
