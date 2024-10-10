@@ -60,6 +60,8 @@ List of content:
 * [Mass Drop ](https://www.massdrop.app) A tool for bulk managing NFTs and Sei tokens, including transfers, minting, listing, bidding, burning, and real-time monitoring across multiple wallets.
 * [Revoke](https://revoke.cash/): Take Back Control of Your Wallet.
 * [Defillama](https://defillama.com/chain/Sei): DeFi analytics for Sei Network.
+* [Light-house](https://github.com/We-Bump): NFT minting platform
+
 
 # Staking pools
 * [Official pools](https://app.sei.io/stake?tab=allValidators) A staking pool from Sei Network site.
@@ -73,6 +75,8 @@ List of content:
 
 # Guides, news and articles
 * [Sei blog](https://blog.sei.io/) A blog website about the Sei.
+* [Bind EVM wallet](https://www.docs.sei.io/user-quickstart) Bind your seievm with EVM wallet to Sei v2.
+* [Chain info](https://www.docs.sei.io/dev-chains) All Sei network chains info from devnet to mainnet.
 * [Stake Guide](https://youtu.be/gI4zSRqdT00) Staking guide $SEI with Compass wallet.
 * [Create Sei Wallet Guide](https://seiyanization.com/guides/how-to-create-a-wallet) A detailed guide on how to create wallet for Sei Network.
 * [Deposit/Withdraw from CEX](https://seiyanization.com/guides/deposit-and-withdraw-from-cex) How to withdraw and deposit $SEI to a centralized exchange.
@@ -81,6 +85,9 @@ List of content:
 # Others
 * [Sei brandkit](https://drive.google.com/drive/folders/1haOdZwNLf-L9bZFJaykNNc4T8fyODPi3?usp=sharing) A media brandkit for Sei Network.
 * [Builder Apply Form](https://sei-forms.typeform.com/join-ecosystem?typeform-source=t.co): If you wanna build on Sei let fill the form.
+* [seiyanization](https://seiyanization.com): Guides, products, latest ecosystem research, tools, how to,
+and much more helpful things to help you get started!
+* [Ecosystem community page](https://seiyanization.com/ecosystem): Sei's ecosystem listed by 3rd party.
 
 # International communities
 * [Vietnam](https://t.me/SeiVietNam) 🇻🇳 Vietnamese telegram community
