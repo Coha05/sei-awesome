@@ -18,9 +18,7 @@ List of content:
 - [Guides, news and articles](#guides-news-and-articles)
 - [Others](#others)
 - [International communities](#international-communities)
-          - [Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.](#awesome-sei-is-community-developed-projects-and-are-not-affiliated-to-sei-foundationlabs)
-        - [Inspired of Mina-Awesome](#inspired-of-mina-awesome)
-
+  
 # Official Links
 
 * [Sei Network](https://www.sei.io/) Official Sei website
@@ -82,6 +80,7 @@ List of content:
 
 # Others
 * [Sei brandkit](https://drive.google.com/drive/folders/1haOdZwNLf-L9bZFJaykNNc4T8fyODPi3?usp=sharing) A media brandkit for Sei Network.
+* [Builder Apply Form](https://sei-forms.typeform.com/join-ecosystem?typeform-source=t.co): If you wanna build on Sei let fill the form.
 
 # International communities
 * [Vietnam](https://t.me/SeiVietNam) 🇻🇳 Vietnamese telegram community
@@ -89,6 +88,6 @@ List of content:
 
 ------
 
-###### Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.
+*Awesome Sei is community developed projects and are not affiliated to Sei Foundation/Labs.*
 
-##### Inspired of [Mina-Awesome](https://github.com/nerdvibe/awesome-mina)
+*Inspired of [Mina-Awesome](https://github.com/nerdvibe/awesome-mina)*
