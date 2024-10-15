@@ -71,6 +71,9 @@ List of content:
 
 # Node scripts
 * [Sei Node Install](https://github.com/sei-protocol/sei-chain?tab=readme-ov-file#validator-setup-instructions) Sei node install script.
+* [Snapshot](https://www.polkachu.com/tendermint_snapshots/sei): Mainnet node snapshot by Polkachu.
+* [Install Guide](https://www.polkachu.com/installation/sei): Guide from Polkachu
+* [Sei's Service](https://services.kjnodes.com/mainnet/sei/): From kjnodes
 
 
 # Guides, news and articles
